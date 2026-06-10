@@ -3,6 +3,15 @@
 Interactive data analytics dashboard built with Looker Studio to monitor and analyze sports betting performance through KPIs, filters, and dynamic visualizations.
 
 ---
+<div align="center">
+
+## **Live Dashboard**
+
+https://datastudio.google.com/reporting/d0fcb35e-da8d-457c-ba4e-005543d5f5cf
+
+</div>
+
+---
 
 ## Project Overview
 
@@ -24,24 +33,6 @@ The dashboard helps track performance, analyze profitability, monitor bankroll e
 * Betting volume monitoring
 * Odds interval analysis
 
-
-
-## Dashboard Preview
-
-### Main Overview
-
-![Dashboard Overview](images/dashboard-overview.png)
-
-### KPI & Trend Analysis
-
-![KPI Analysis](images/dashboard-kpi.png)
-
-
----
-
-## Live Dashboard
-
-https://datastudio.google.com/reporting/d0fcb35e-da8d-457c-ba4e-005543d5f5cf
 
 ---
 
